@@ -1,2 +1,2 @@
-# birdbot
+# birdometer
 Machine Vision Bird Counter
